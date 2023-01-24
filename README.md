@@ -1,2 +1,2 @@
-# Temel-Python
+# Temel Python
 www.patika.dev
